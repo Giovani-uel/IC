@@ -1,0 +1,14 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "freertos.h": "c",
+    "stdio.h": "c",
+    "gpio.h": "c",
+    "esp_system.h": "c",
+    "event_groups.h": "c",
+    "*.inc": "c"
+  },
+  "idf.portWin": "COM3",
+  "idf.flashType": "UART",
+  "idf.adapterTargetName": "esp32"
+}
